@@ -6,9 +6,10 @@ caption: 'Τα παιχνίδια στους ηλεκτρονικούς υπολ
 license_url: "https://commons.wikimedia.org/wiki/File:InterAct_V-Thunder_Racing_Wheel_for_GameCube.JPG"
 license_text:  
 categories:
-  - Αρχέτυπα
+  - Συσκευές Εισόδου
 tags:
   - Steering Whell
   - GameCube
   - gaming
+  - Συσκευές Εισόδου
 ---
